@@ -1,0 +1,23 @@
+{
+  "name": "graphql-is-better-than-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -r esm index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.9.4",
+    "apollo-server": "^2.18.2",
+    "esm": "^3.2.25",
+    "graphql": "^15.3.0",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
