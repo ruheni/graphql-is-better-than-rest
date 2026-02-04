@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "apollo-datasource-rest": "^0.9.4",
-    "apollo-server": "^2.18.2",
+    "apollo-server": "^3.13.0",
     "esm": "^3.2.25",
     "graphql": "^15.3.0",
     "install": "^0.13.0"
